@@ -8,7 +8,7 @@ argument and returns the floor of the float.
 import math
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     Returns the floor of the float
     """
