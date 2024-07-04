@@ -3,6 +3,8 @@
 Typed annotation function that takes float a and b as
 arguments and returns the sum
 """
+
+
 def add(a: float, b: float) -> float:
     """
     Returns sum of a and b
