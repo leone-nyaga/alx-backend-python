@@ -9,7 +9,7 @@ import random
 from typing import AsyncGenerator
 
 
-async def async_generator() -> AsyncGenerator[Float: None]:
+async def async_generator() -> AsyncGenerator[float, None]:
     """
     loop
     """
