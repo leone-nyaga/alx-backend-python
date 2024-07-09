@@ -14,4 +14,3 @@ async def async_comprehension() -> List[float]:
     function
     """
     return [i async for i in async_generator()]
-
