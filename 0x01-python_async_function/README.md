@@ -1,6 +1,6 @@
 # 0x01-python_async_function
 
-![async meme]()
+![async meme](https://github.com/leone-nyaga/alx-backend-python/blob/master/0x01-python_async_function/images/async%20meme.png)
 
 ## Resources
 
