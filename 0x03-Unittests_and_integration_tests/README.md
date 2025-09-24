@@ -132,8 +132,9 @@ def memoize(fn: Callable) -> Callable:
 ```
 </details>
 
-<details>
+
 client.py ([download](https://intranet-projects-files.s3.amazonaws.com/webstack/client.py))
+<details>
 <summary>Click to show/hide file contents</summary>
 
 ```python
