@@ -1,6 +1,6 @@
 # 0x00-python_variable_annotations
 
-![typing meme]()
+![typing meme](https://github.com/leone-nyaga/alx-backend-python/blob/master/0x00-python_variable_annotations/images/typing%20meme.png)
 
 ## Resources
 
